@@ -1,2 +1,2 @@
-# qwerty
+# QWERTY
 This is my first repository
