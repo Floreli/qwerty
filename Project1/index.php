@@ -317,13 +317,74 @@
 					<h3>Haha Hakdog</h3>
 				</div>
 
-
-
 			</div>
-
 		</div> 
 	</div>
 
+	<!--------------------Brands --------->
+	<div class="brands">
+		<div class="small-container">
+
+			<div class="row">
+
+				<div class="col-5">
+					<img src="images/tshirt2.jpg">
+				</div>
+				<div class="col-5">
+					<img src="images/tshirt2.jpg">
+				</div>
+				<div class="col-5">
+					<img src="images/tshirt2.jpg">
+				</div>
+				<div class="col-5">
+					<img src="images/tshirt2.jpg">
+				</div>
+				<div class="col-5">
+					<img src="images/tshirt2.jpg">
+				</div>
+
+			</div>
+
+		</div>
+	</div>
+
+	<!----------Footer---------->
+
+	<div class="footer">
+		<div class="container">
+
+			<div class="row">
+
+				<div class="footer-col-1">
+					<h3>Download our App</h3>
+					<p>Download App for Android and Ios mobile phones.</p>
+				</div>
+				<div class="footer-col-2">
+					<img src="images/tshirt2.jpg">
+					<p>Our Purpose is to sustainably make the pleasre and benefits of sports accessible to the many.</p>
+				</div>
+				<div class="footer-col-3">
+					<h3>Useful Links</h3>
+					<ul>
+						<li>Coupons</li>
+						<li>Blog Post</li>
+						<li>Return Policy</li>
+						<li>Join Affiliate</li>
+					</ul>
+				</div>
+				<div class="footer-col-4">
+					<h3>Follow us</h3>
+					<ul>
+						<li>Facebook</li>
+						<li>Twitter</li>
+						<li>Instagram</li>
+						<li>Youtube</li>
+					</ul>
+				</div>
+
+			</div>
+		</div>
+	</div>
 
 
 </body>

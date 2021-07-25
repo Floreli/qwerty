@@ -211,13 +211,108 @@ small{
 .testimonial .col-3{
 	text-align: center;
 	padding: 40px 20px;
+	box-shadow:0 0 20px 0 rgba(0,0,0,0.1);
+	transition:0.5s;
+	cursor:pointer;
 }
 
 .testimonial .col-3 img{
 	width: 100px;
 	margin-top: 20px;
 	border-radius: 50%;
-	transform: scale(0.5);
+	
+}
+
+.testimonial .col-3:hover{
+	transform:translateY(-10px)
+}
+
+.fa.fa-quote-left{
+	color:#ff523b;
+	font-size: 34px;
+}
+
+.col-3 p{
+	font-size: 12px;
+	margin:12px 0;
+	color:#555;
+}
+
+.testimonial .col-3 h3{
+	font-weight:600;
+	color:#555;
+	font-size:16px;
+}
 
 
+/*****************Brands*******/
+.brands{
+	margin:100px auto;
+}
+
+.col-5{
+	width:160px;
+}
+
+.col-5 img{
+	cursor:pointer;
+	height:90px;
+	width:100%;
+	filter:grayscale(100%)
+}
+
+.col-5 img:hover{
+	filter:grayscale(0)
+}
+
+/********Footer***********/
+
+.footer{
+	background-color:black;
+	color:#8a8a8a;
+	font-size:14px;
+	padding:60px 0 20px;
+
+	
+}
+
+.footer p{
+	color:#8a8a8a;
+}
+
+.footer h3{
+	color:white;
+	margin-bottom:20px;
+}
+
+
+
+.footer-col-1, .footer-col-2, .footer-col-3, .footer-col-4{
+	min-width:250px;
+	margin:20px;
+	border:solid 1px white;
+	
+}
+
+.footer-col-1{
+flex-basis:25%;
+}
+.footer-col-2{
+	flex:1;
+	text-align:center;
+
+}
+.footer-col-2 img{
+	height:80px;
+	width:220px;
+	margin-bottom:20px;
+}
+
+.footer-col-3, .footer-col-4{
+	flex-basis:12%;
+	text-align:center;
+}
+
+.footer ul li{
+	list-style: none;
 }
